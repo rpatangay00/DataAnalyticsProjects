@@ -12,17 +12,15 @@ The Adidas Sales Dashboard is designed to provide a visual representation of sal
 
 The Adidas Sales Dashboard includes the following features:
 
-1. **Filters**: Users can filter the dashboard based on the following criteria:
+1. **Settings**: Users can filter the dashboard based on the following criteria:
    - Year: Choose between 2020 and 2021.
    - Region: Filter by specific geographic regions.
-   - Retailer: Filter by specific retailers.
-   - Sales Method: Filter by the method of sale (e.g., online, in-store).
    - Product Type: Filter by the type of Adidas product.
 
 2. **Visualizations**: The dashboard includes various visualizations, such as:
-   - Line charts showing sales trends over time (monthly or quarterly) for the selected factors.
-   - Bar charts comparing sales performance across different regions, retailers, and sales methods.
-   - Pie charts displaying the distribution of sales by product type.
+   - Line charts showing sales trends over time (monthly/yearly) for the selected factors.
+   - Bar charts displaying sales by different retailers.
+   - Donut charts displaying the distribution of sales by sales method.
 
 3. **Summary Metrics**: Key summary metrics are provided, such as:
    - Total sales revenue for the selected period.
