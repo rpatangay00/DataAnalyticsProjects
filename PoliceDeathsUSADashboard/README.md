@@ -2,6 +2,9 @@
 
 This repository contains an Excel dashboard that presents data on police officer deaths in the United States. The dashboard provides insights into different aspects of police fatalities, including state-wise distribution, trends over the years, and causes of death.
 
+## Image of Dashboard 
+
+
 ## Dashboard Features
 
 Explore the key features of the US Police Deaths Dashboard:
