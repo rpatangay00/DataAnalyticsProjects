@@ -25,7 +25,6 @@ The Adidas Sales Dashboard includes the following features:
 
 3. **Summary Metrics**: Key summary metrics are provided, such as:
    - Total sales revenue for the selected period.
-   - Average sales amount per transaction.
 
 ## Usage Instructions
 
