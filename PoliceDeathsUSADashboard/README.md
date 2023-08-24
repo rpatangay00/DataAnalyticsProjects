@@ -4,7 +4,7 @@ This repository contains an Excel dashboard that presents data on police officer
 
 ## Image of Dashboard 
 
-![alt text](https://github.com/rpatangay00/DataAnalyticsProjects/blob/04c175fd196648c58de6d3df0d6a24cf23dac1bc/PoliceDeathsUSADashboard/PoliceDeathsDashboard_IMG.png)
+![alt text](https://github.com/rpatangay00/DataAnalyticsProjects/blob/f9de604915de78341760c47b7c242839a3879731/PoliceDeathsUSADashboard/PoliceDeathsDashboard_IMG.png)
 
 
 ## Dashboard Features
