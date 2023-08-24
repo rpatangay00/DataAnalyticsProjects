@@ -5,5 +5,5 @@
 
 
 
-### Here is my interactive dashboard for Police Deaths in the USA. Click [Here](https://github.com/rpatangay00/DataAnalyticsProjects/tree/992ec3fd1805e49eaf7fb2838cf329fb2b19cf52/PoliceDeathsUSADashboard) to go to repo for more details.
+### Here is my interactive dashboard for Police Deaths in the USA. Click [Here](https://github.com/rpatangay00/DataAnalyticsProjects/tree/c3a46c018ce818a3a28f59f48706356ffc100685/PoliceDeathsUSADashboard) to go to repo for more details.
 ![alt text](https://github.com/rpatangay00/DataAnalyticsProjects/blob/5e49180e09ac86997e40a801911620228e3b6d97/PoliceDeathsUSADashboard/PoliceDeathsDashboard_IMG.png)
