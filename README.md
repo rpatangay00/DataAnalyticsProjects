@@ -9,7 +9,7 @@
 ![alt text](https://github.com/rpatangay00/DataAnalyticsProjects/blob/5e49180e09ac86997e40a801911620228e3b6d97/PoliceDeathsUSADashboard/PoliceDeathsDashboard_IMG.png)
 
 
-### Here is my interactive dashboard for trends in Stocks in the USA. Click [Here](https://github.com/rpatangay00/DataAnalyticsProjects/tree/c3a46c018ce818a3a28f59f48706356ffc100685/PoliceDeathsUSADashboard) to go to repo for more details.
+### Here is my interactive dashboard for trends in Stocks in the USA. Click [Here](https://github.com/rpatangay00/DataAnalyticsProjects/tree/4f2fd42e5f9db0d071092f91f36fd10ba663e580/StocksUSADashboard) to go to repo for more details.
 
 ![alt text](https://github.com/rpatangay00/DataAnalyticsProjects/blob/858bd3fb102a268328535b049cadc3638c2188eb/StocksUSADashboard/StocksDashboardIMG.png)
 
