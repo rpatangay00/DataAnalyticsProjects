@@ -18,9 +18,10 @@ The Adidas Sales Dashboard includes the following features:
    - Product Type: Filter by the type of Adidas product.
 
 2. **Visualizations**: The dashboard includes various visualizations, such as:
-   - Line charts showing sales trends over time (monthly/yearly) for the selected factors.
-   - Bar charts displaying sales by different retailers.
-   - Donut charts displaying the distribution of sales by sales method.
+   - Line chart showing sales trends over time (monthly/yearly) for the selected factors.
+   - Bar chart displaying sales by different retailers.
+   - Donut chart displaying the distribution of sales by sales method.
+   - Map that displays higher/lower sales based on states.
 
 3. **Summary Metrics**: Key summary metrics are provided, such as:
    - Total sales revenue for the selected period.
