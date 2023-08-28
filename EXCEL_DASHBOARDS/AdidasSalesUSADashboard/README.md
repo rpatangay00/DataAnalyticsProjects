@@ -6,6 +6,8 @@ This repository contains an Excel dashboard analyzing Adidas sales in the United
 
 The Adidas Sales Dashboard is designed to provide a visual representation of sales data for the specified years and factors. The main goal of this dashboard is to help users gain insights into sales performance trends and patterns.
 
+Dataset was found here: https://view.flodesk.com/pages/62e6c1afc4d48aec3664b8e4
+
 ## Dashboard Screenshots
 
 ![alt text](https://github.com/rpatangay00/DataAnalyticsProjects/blob/34ee4e3ddbef05f7f4b1348ce9bd77e163736f03/AdidasSalesUSADashboard/Screenshot%202023-08-23%20at%204.36.42%20PM.png)
